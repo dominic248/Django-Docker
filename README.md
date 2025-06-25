@@ -1,3 +1,7 @@
+<!-- GNZ9THYZLF6EUZCH6INAKTTG7THGMBFD -->
+
+---
+
 # Django in Docker
 ## Docker file for Django with OpenCV-4 and dlib
 ### Create Docker Image
