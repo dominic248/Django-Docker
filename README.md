@@ -1,4 +1,5 @@
 <!-- GNZ9THYZLF6EUZCH6INAKTTG7THGMBFD -->
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dominic248/django-docker@github)](https://gitads.dev/v1/ad-track?source=dominic248/django-docker@github)
 
 ---
 
